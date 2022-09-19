@@ -8,4 +8,4 @@ Say but I'm going back to bed
 
 .
 <img src="0.png">user image
-<img src="img(1).jpg">users bimg
+<img src="img1.jpg">users bimg
