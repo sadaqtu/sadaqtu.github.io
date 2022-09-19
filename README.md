@@ -1,4 +1,4 @@
-[Home.txt[https://github.com/sadaqtu/sadaqtu.github.io/files/9595562/Home.txt)
+[Home.txt](https://github.com/sadaqtu/sadaqtu.github.io/files/9595562/Home.txt)
 [ABOUT-FACE]
 # sadaqtu.github.io
 Say but I'm going back to bed
