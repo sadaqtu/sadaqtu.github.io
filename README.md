@@ -1,4 +1,4 @@
-[readme](https://sadaqtu.github.io/0.png)
+[readme](https://sadaqtu.github.io/index.html)
 [Images](0.png)
 [image of user](img(1).jpg)img of user 
 [ABOUT](  https://github.com/sadaqtu/sadaqtu.github.io/wiki)
