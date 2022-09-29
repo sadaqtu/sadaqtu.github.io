@@ -1,6 +1,6 @@
-[readme](https://sadaqtu.github.io/index.html)
+[readme](https://en.wikipedia.org/wiki/user:sadaqtu)
 [Images](0.png)
-[image of user](img(1).jpg)img of user 
+ 
 [ABOUT](  https://github.com/sadaqtu/sadaqtu.github.io/wiki)
 # sadaqtu.github.io
 Say but I'm going back to bed
