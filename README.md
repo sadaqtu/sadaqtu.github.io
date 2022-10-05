@@ -1,4 +1,4 @@
-<link rel="stylesheets"href="style.css">
+[button]<link rel="stylesheets"href="style.css">
 [readme](https://en.wikipedia.org/wiki/user:sadaqtu)
 
 [Images](0.png)
