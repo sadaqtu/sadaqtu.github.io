@@ -6,9 +6,9 @@
 [ABOUT](  https://github.com/sadaqtu/sadaqtu.github.io/wiki)
 # sadaqtu.github.io
 Say but I'm going back to bed
-[IMAGE]
-[MUSIC]
-.[VIDEO]
+[IMAGE]()
+[MUSIC]()
+.[VIDEO]()
 <img src="0.pn">user image
 <img src="img(1).jpg">users bimg
 
