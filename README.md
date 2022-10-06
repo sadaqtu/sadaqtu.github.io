@@ -7,8 +7,8 @@
 # sadaqtu.github.io
 
 [IMAGE](0.png)
-[MUSIC]
-[VIDEO]
+[MUSIC]()
+[VIDEO]()
 
 
 
